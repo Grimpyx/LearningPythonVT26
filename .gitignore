@@ -1,3 +1,5 @@
+# This gitignore was automatically added by Github Desktop when initializing this reposatory.
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
