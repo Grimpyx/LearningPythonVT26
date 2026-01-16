@@ -10,7 +10,7 @@ def legal_status(age):
             return "alcohol"
         case age if age < 35:
             return "senator"
-        case _:
+        case _: # default case, meaning if no other case existed
             return "president"
         
 # I expect this is the more intended method
