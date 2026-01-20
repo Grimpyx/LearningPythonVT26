@@ -10,5 +10,3 @@ def calculate_loan(property_price,loan,interest_rate):
     print(f"amortization: {int(amortization/12)}")
     print(f"interest: {int(interest/12)}")
     print(f"total: {int(total/12)}")
-
-calculate_loan(15e5,6e5,1.2)
