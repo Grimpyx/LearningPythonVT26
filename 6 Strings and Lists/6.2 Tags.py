@@ -1,1 +1,1 @@
-def tag(tag, toTag): return f"<{tag}>{toTag}<{tag}>"
+def tag(tag, toTag): return f"<{tag}>{toTag}</{tag}>"
