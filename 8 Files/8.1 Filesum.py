@@ -8,4 +8,4 @@ def filesum(fileName):
         sum += int(line)
     return sum
 
-print(filesum("LearningPythonVT26/8 Files/Testing.txt"))
+print(filesum("LearningPythonVT26/8 Files/Testing.txt")) # the default directory is the vscode repo, PYTHON VT26
